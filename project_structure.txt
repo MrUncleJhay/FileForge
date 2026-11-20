@@ -1,0 +1,17 @@
+FileForge/
+│
+├── app/
+│   ├── __init__.py
+│   ├── routes/
+│   ├── services/
+│   ├── templates/
+│   └── static/
+│       ├── css/
+│       ├── js/
+│       └── images/
+│
+├── config.py
+├── run.py
+├── requirements.txt
+├── .gitignore
+└── README.md
